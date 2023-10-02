@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Let\'s see it you can guess my favorite number.");
+            Console.WriteLine("Let\'s see if you can guess my favorite number.");
             Console.WriteLine("Pick a number and I will tell you if you are high " +
                 "or low.");
             Console.WriteLine();
